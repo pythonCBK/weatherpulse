@@ -26,7 +26,7 @@ Here is a command to install them all!
 
 ```pip install tkinter plyer```
 
-You also need to get API-key from Openweather website!
+You also need to get API-key from Openweather website and put it in the code!
 ___________________________________
 
 ⚠️**Attention**
