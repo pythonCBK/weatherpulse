@@ -31,7 +31,7 @@ window.resizable(width=False, height=False)
 if hasattr(sys, '_MEIPASS'):
     icon_path = os.path.join(sys._MEIPASS, 'appicon.ico')
 else:
-    icon_path = "C:\\Users\\cat12\\OneDrive\\Desktop\\WeatherPulse\\icon.ico"
+    icon_path = "C:\\............\\WeatherPulse\\icon.ico" # <----- Write yout path!
 
 window.iconbitmap(icon_path)
 
