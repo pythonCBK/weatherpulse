@@ -1,6 +1,6 @@
 📖**ReadME**
 
-Weather Pulse is simple tool for your PC which sends weather summary as an notification. App sends notification about the weather conditions in choosen city every hour. You also can configure the infromation format (time, temperature). I'm planning to add some more functions and work on the UI in the future. If you have any questions or suggestions feel free to write them!
+Weather Pulse is simple tool for your PC which sends weather summary as an notification. App sends notification about the weather conditions in choosen city every hour. You also can configure the temperature format. I'm planning to add some more functions and work on the UI in the future. If you have any questions or suggestions feel free to write them!
 
 ___________________________________
 
